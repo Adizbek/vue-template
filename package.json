@@ -17,6 +17,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@tanstack/vue-query": "^5.62.12",
+    "axios": "^1.7.9",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-vue-next": "^0.469.0",
